@@ -1,5 +1,5 @@
 # Node Json DataBase
-A simple json database writted on node.
+A simple json database writted on **node.js**.
 ## How to use?
 ```
 var database = require('./script')
