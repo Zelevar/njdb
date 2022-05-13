@@ -10,4 +10,4 @@ console.log(database.get('user', 'password'));
 > 12345678
 ```
 ## About
-This is an analog of the [script](https://github.com/bauripalash/foobardb) that I wrote on **node.js** _without any skill_.
+This is an analog of this [script](https://github.com/bauripalash/foobardb) that I wrote on **node.js** _without any skill_.
